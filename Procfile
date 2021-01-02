@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run stream_111220.py
+web: sh setup.sh && streamlit run perssecsist.py
